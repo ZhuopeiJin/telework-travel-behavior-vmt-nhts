@@ -13,7 +13,7 @@ the 2017 and 2022 National Household Travel Survey (NHTS).
 - data/sample/: Sample datasets for reproducibility
 
 ## Data
-Raw NHTS microdata are included.
+Raw NHTS microdata are restricted and not included.
 Sample datasets are provided to allow code execution.
 
 ## How to Reproduce
