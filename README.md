@@ -8,12 +8,12 @@ the 2017 and 2022 National Household Travel Survey (NHTS).
 ## Repository Structure
 - notebooks/01_run_2017.ipynb: Data preparation (2017)
 - notebooks/02_run_2022.ipynb: Data preparation (2022)
-- notebooks/03_sur_analysis.ipynb: SUR estimation and results
+- notebooks/03_sur_analysis.ipynb: run SUR model and results
 - src/: Shared utility code
 - data/sample/: Sample datasets for reproducibility
 
 ## Data
-Raw NHTS microdata are restricted and not included.
+Raw NHTS microdata are included.
 Sample datasets are provided to allow code execution.
 
 ## How to Reproduce
