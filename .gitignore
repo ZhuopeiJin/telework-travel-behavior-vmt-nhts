@@ -1,0 +1,13 @@
+# raw and processed data (do not upload)
+data/raw/
+data/processed/
+
+# outputs (optional to upload; you can decide later)
+outputs/
+
+# notebook noise
+.ipynb_checkpoints/
+
+# python cache
+__pycache__/
+*.pyc
