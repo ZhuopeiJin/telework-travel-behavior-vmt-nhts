@@ -1,13 +1,20 @@
-# raw and processed data (do not upload)
+# --- Raw & restricted data (never upload) ---
 data/raw/
-data/processed/
 
-# outputs (optional to upload; you can decide later)
-outputs/
+# --- Large processed datasets (do not upload full files) ---
+data/processed/*.csv
 
-# notebook noise
+# --- Outputs: keep structure, ignore large files ---
+outputs/figures/*.png
+outputs/figures/*.jpg
+outputs/figures/*.pdf
+outputs/tables/*.txt
+outputs/tables/*.csv
+
+# --- Notebook noise ---
 .ipynb_checkpoints/
 
-# python cache
+# --- Python cache ---
 __pycache__/
 *.pyc
+
