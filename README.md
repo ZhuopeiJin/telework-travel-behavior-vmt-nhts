@@ -1,8 +1,8 @@
 # Telework, Time Allocation, and Non-Work Travel Behavior
 
 ## Overview
-This repository contains code for my Master’s Report examining how telework
-influences non-work activity time allocation and travel behavior using
+This repository contains code for my Master’s Report examining how remote work
+influences non-work out-of-home activity time allocation and vehicle miles traveled using
 the 2017 and 2022 National Household Travel Survey (NHTS).
 
 ## Repository Structure
