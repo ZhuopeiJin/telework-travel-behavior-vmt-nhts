@@ -16,6 +16,4 @@ the 2017 and 2022 National Household Travel Survey (NHTS).
 Raw NHTS microdata are restricted and not included.
 Sample datasets are provided to allow code execution.
 
-## How to Reproduce
-1. Clone the repository
-2. Run notebooks in order: 01 → 02 → 03
+
